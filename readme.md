@@ -1,4 +1,4 @@
-# A member of [BSGOU](https://www.bs-gou.com/) <img src="https://github.com/LabOnoM/LabOnoM.github.io/blob/2858427643772f8f99bcff039a18102fc6d777d1/_includes/svg/logo.svg" />
+# Hi, I am Ziyi, a member of [BSGOU](https://www.bs-gou.com/) <img src="https://github.com/LabOnoM/LabOnoM.github.io/blob/2858427643772f8f99bcff039a18102fc6d777d1/_includes/svg/logo.svg" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wong-ziyi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=F9DBB5\&bg_color=AB6DC5)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wong-ziyi&theme=ambient-gradient&card_width=330&card_height=320&hide_current_streak=true)](https://git.io/streak-stats)
 
