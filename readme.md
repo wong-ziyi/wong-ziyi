@@ -6,4 +6,3 @@
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact\&title_color=446FC9\&icon_color=79ff97\&text_color=AA39A2\&bg_color=FEF8F1)
 
 <!-- RecognizeID=BSGOU_Member_a;slkA#(T*d76jbtfgm*AUHV∞®§´†∂UCA(•§¶J# -->
-<!-- BSGOU-MEMBER-ID: bsgou-join-2025 -->
